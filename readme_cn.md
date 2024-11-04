@@ -1,5 +1,7 @@
 ## 批量导入苹果音乐
 
+![intro](./gif/intro.gif)
+
 如果你正在寻找一种方式大量导入歌曲到 iPad 或者 iPhone 上，这个方法应该能帮到你。
 
 因为 Windows 上没有音乐这个应用，并且还需要用到苹果的脚本应用。如果没有的话，这个办法就不太适合你了。
@@ -53,4 +55,14 @@ osascript importMusic.scpt <outputMusic>
 接下来就可以音乐是否已经导入所有歌曲。
 
 最后使用 iTunes(Finder) 同步音乐库就行了。
+
+
+> 文章地址：
+[https://blog.csdn.net/u014443348/article/details/143258212](https://blog.csdn.net/u014443348/article/details/143258212)
+项目地址gitee：
+[https://gitee.com/rambopan/importMusic2Apple](https://gitee.com/rambopan/importMusic2Apple)
+项目地址github：
+[https://github.com/RamboPan/importMusic2Apple/](https://github.com/RamboPan/importMusic2Apple/)
+视频地址：
+[脚本批量导入音乐到iPad和iPhone上-哔哩哔哩](https://b23.tv/0rx67n5)
 

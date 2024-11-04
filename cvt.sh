@@ -15,13 +15,20 @@ fi
 
 # 输入和输出目录
 import_dir="$1"
-export_dir="$2"
+# 确保输出目录是绝对路径
+output_dir=$(realpath "$2")
 error_log="$export_dir/error_log.txt"
 
 # 检查导入目录是否存在
 if [ ! -d "$import_dir" ]; then
     echo "Error: 导入目录 $import_dir 不存在。"
     exit 1
+fi
+
+# 检查并删除输出目录
+if [ -d "$output_dir" ]; then
+    echo "删除旧的输出目录：$output_dir"
+    rm -rf "$output_dir"
 fi
 
 # 创建导出目录（如果不存在）

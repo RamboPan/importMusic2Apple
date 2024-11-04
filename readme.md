@@ -1,5 +1,7 @@
 ## Batch Import to Apple Music
 
+![intro](./gif/intro.gif)
+
 If you are looking for a way to batch import songs to your iPad or iPhone, this method should help you.
 
 Since there is no Music app on Windows, and it also requires using Apple's script application, this approach may not be suitable for you if you don't have those.
@@ -53,3 +55,14 @@ osascript importMusic.scpt <outputMusic>
 Next, check if all songs have been imported successfully.
 
 Finally, use iTunes (Finder) to sync your music library.
+
+
+
+> Blog：
+> [https://blog.csdn.net/u014443348/article/details/143258212](https://blog.csdn.net/u014443348/article/details/143258212)
+> Project - gitee：
+> [https://gitee.com/rambopan/importMusic2Apple](https://gitee.com/rambopan/importMusic2Apple)
+> Project -github：
+> [https://github.com/RamboPan/importMusic2Apple/](https://github.com/RamboPan/importMusic2Apple/)
+> Video：
+> [脚本批量导入音乐到iPad和iPhone上-哔哩哔哩](https://b23.tv/0rx67n5)
