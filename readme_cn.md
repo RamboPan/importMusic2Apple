@@ -58,11 +58,14 @@ osascript importMusic.scpt <outputMusic>
 
 
 > 文章地址：
-[https://blog.csdn.net/u014443348/article/details/143258212](https://blog.csdn.net/u014443348/article/details/143258212)
-项目地址gitee：
-[https://gitee.com/rambopan/importMusic2Apple](https://gitee.com/rambopan/importMusic2Apple)
-项目地址github：
-[https://github.com/RamboPan/importMusic2Apple/](https://github.com/RamboPan/importMusic2Apple/)
-视频地址：
-[脚本批量导入音乐到iPad和iPhone上-哔哩哔哩](https://b23.tv/0rx67n5)
+> [https://blog.csdn.net/u014443348/article/details/143258212](https://blog.csdn.net/u014443348/article/details/143258212)
+>
+> 项目地址gitee：
+> [https://gitee.com/rambopan/importMusic2Apple](https://gitee.com/rambopan/importMusic2Apple)
+>
+> 项目地址github：
+> [https://github.com/RamboPan/importMusic2Apple/](https://github.com/RamboPan/importMusic2Apple/)
+>
+> 视频地址：
+> [脚本批量导入音乐到iPad和iPhone上-哔哩哔哩](https://b23.tv/0rx67n5)
 
